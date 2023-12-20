@@ -12,7 +12,7 @@ Sinta-se à vontade para contribuir adicionando novos desafios, fornecendo solu�
 2. **Clone o Repositório:** Clone o repositório forked para a sua máquina local.
 
     ```bash
-    git clone https://github.com/seu-username/desafios-python.git
+    git clone https://github.com/WesleyS08/desafios-de-programacao-rm-PY.git
     ```
 
 3. **Crie um Branch:** Crie um branch para trabalhar nos seus desafios.
@@ -24,8 +24,4 @@ Sinta-se à vontade para contribuir adicionando novos desafios, fornecendo solu�
 4. **Adicione ou Modifique:** Adicione novos desafios ou modifique os existentes.
 
 5. **Envie um Pull Request:** Envie um pull request explicando as mudanças feitas.
-
-## Estrutura do Repositório
-
-O repositório está organizado da seguinte maneira:
 
